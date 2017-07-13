@@ -1,0 +1,37 @@
+.jumbo-custom {
+	background-image: url("images/banner-img.png");
+    margin-bottom: 0;
+    height: 40rem;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.text-wrap {
+width: 30%;
+margin: 0 auto;
+}
+
+img {
+    width: 5em;
+    float: left;
+}
+
+.footer-mod {
+    text-align: center;
+    margin-top: 5em;
+}
+
+h1 {
+    color: white;
+}
+h2, h3 {
+    text-align: center;
+}
+
+.blog-post {
+    padding-right: 50px;
+}
+
+
